@@ -63,7 +63,6 @@ git add <file>
 To add everything at once:
 
 git add -A
-When you visit the screenshot above in the 4th section, you will see that there are file names that are red - this means that they're unstaged files. The unstaged files won't be included in your commits.
 
 To include them, we need to use git add:
 
